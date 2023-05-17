@@ -4,4 +4,4 @@ API
 .. autosummary::
    :toctree: generated
 
-   lumache
+   Python_Uploading_Csv_File_To_Snowflake
