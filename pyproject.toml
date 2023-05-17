@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lumache"
+name = "Python_Uploading_Csv_File_To_Snowflake"
 authors = [{name = "IgnitionGroup", email = "Mpilo.Gumede@IgnitionGroup.co.za"}]
 dynamic = ["version", "description"]
