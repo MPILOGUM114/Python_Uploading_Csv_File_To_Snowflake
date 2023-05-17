@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Python_Uploading_Csv_File_To_Snowflake'
+copyright = '2023, IgnitionGroup'
+author = 'IgnitionGroup'
 
 release = '0.1'
 version = '0.1.0'
